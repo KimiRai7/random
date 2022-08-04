@@ -1,0 +1,4 @@
+﻿  Źródło.cpp
+C:\Users\janek\Documents\Visual Studio 2022\Projects\pomocniczy\Źródło.cpp(22,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\janek\Documents\Visual Studio 2022\Projects\pomocniczy\Źródło.cpp(25,29): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+  pomocniczy.vcxproj -> C:\Users\janek\Documents\Visual Studio 2022\Projects\pomocniczy\x64\Debug\pomocniczy.exe
